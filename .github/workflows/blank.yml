@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://Pharmaceuticals-1@dev.azure.com/Pharmaceuticals-1/RAVEN/_git/Test2
             azure-pipeline-name: 'Test2'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+            azure-devops-token: ${{ secrets.2joerlx5lae47pwwbokjldcmm2as7eyjitk4fvodhq6xyq7so5gq }}
